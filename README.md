@@ -4,14 +4,14 @@
 
 ### Insert Picture
 
-# Specs:
-## Monitor: LG UltraGear 27" FHD IPS 240Hz Monitor
-## CPU: AMD Ryzen 5 3600
-## CPU Cooler: Cooler Master Hyper 212 Black Edition
-## Motherboard: Asrock B550 Phantom Gaming 4
-## Memory: G.Skill Ripjaws V 16 GB
-## Storage Unit 1: Western Digital Blue 500 GB
-## Storage Unit 2: Crucial MX500 1 TB
-## GPU: RTX 2070 Super
-## Power Supply: Thermaltake Toughpower 650 W 80+ Gold ATX Power Supply
-## Case: Lian Li Lancool II-X ATX Mid Tower Case
+## Specs:
+### Monitor: LG UltraGear 27" FHD IPS 240Hz Monitor
+### CPU: AMD Ryzen 5 3600
+### CPU Cooler: Cooler Master Hyper 212 Black Edition
+### Motherboard: Asrock B550 Phantom Gaming 4
+### Memory: G.Skill Ripjaws V 16 GB
+### Storage Unit 1: Western Digital Blue 500 GB
+### Storage Unit 2: Crucial MX500 1 TB
+### GPU: RTX 2070 Super
+### Power Supply: Thermaltake Toughpower 650 W 80+ Gold ATX Power Supply
+### Case: Lian Li Lancool II-X ATX Mid Tower Case
